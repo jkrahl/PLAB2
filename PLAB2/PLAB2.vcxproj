@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="PLAB2.cpp" />
+    <ClCompile Include="Aleatori.cpp" />
+    <ClCompile Include="Pistoler.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Aleatori.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
